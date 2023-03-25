@@ -4,3 +4,4 @@
 ## Summary 
 
 This repository contains all of the notes taken by Estelle for the Lighthouse Labs Web Development Bootcamp.
+Estelle's Github profile link (https://github.com/EstelleWho)
